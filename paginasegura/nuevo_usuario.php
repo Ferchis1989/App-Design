@@ -7,7 +7,7 @@ if (isset($_POST["usuario"]) &&
     isset ($_POST["correo"])
 ){
 
-agregar_ususario($_POST["usuario"],
+agregar_usuario($_POST["usuario"],
                 $_POST["password"],
                 $_POST["nombre"],
                 $_POST["apellido"],

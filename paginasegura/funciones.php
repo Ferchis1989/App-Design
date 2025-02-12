@@ -5,7 +5,7 @@
 define('servidor', 'localhost');
 define('basededatos', 'dbperrona');
 define('usuario', 'lectura');
-define('password', 'mipasswored'); // ¡Recuerda cambiar esta contraseña por una segura!
+define('password', 'mipassword'); // ¡Recuerda cambiar esta contraseña por una segura!
 
 function conectar()
 {
